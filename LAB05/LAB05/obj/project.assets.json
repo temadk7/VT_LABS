@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\artem\\OneDrive\\Документы\\GitHub\\VT_LABS\\LAB05\\LAB05\\LAB05.csproj",
+      "projectUniqueName": "D:\\VT_LABS\\LAB05\\LAB05\\LAB05.csproj",
       "projectName": "LAB05",
-      "projectPath": "C:\\Users\\artem\\OneDrive\\Документы\\GitHub\\VT_LABS\\LAB05\\LAB05\\LAB05.csproj",
+      "projectPath": "D:\\VT_LABS\\LAB05\\LAB05\\LAB05.csproj",
       "packagesPath": "C:\\Users\\artem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\artem\\OneDrive\\Документы\\GitHub\\VT_LABS\\LAB05\\LAB05\\obj\\",
+      "outputPath": "D:\\VT_LABS\\LAB05\\LAB05\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\artem\\AppData\\Roaming\\NuGet\\NuGet.Config",
